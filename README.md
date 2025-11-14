@@ -1,4 +1,7 @@
 # Unity_Programmer
+基于Unity官方‘Junior Programmer’学习路径开发的一系列3D游戏原型。本项目展示了C#脚本编程、游戏机制实现和Unity引擎的核心功能。
+项目只包含实践过程中改动的代码，部分接口使用并未完全按照实践，例如在Update中更新RigiBody，没有在LateUpate中更新camera等
+
 下面是项目的运行截图，从最新到次新
 
 ![unity_property5 1](https://github.com/user-attachments/assets/ade49226-1694-4ac5-8c6e-c1ddaaf0c526)
